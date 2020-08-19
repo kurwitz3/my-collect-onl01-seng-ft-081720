@@ -6,5 +6,5 @@ def my_collect(array)
     z <<  array[x]
    x = x + 1 
  end 
- z
+ 
 end
