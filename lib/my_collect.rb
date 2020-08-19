@@ -6,6 +6,3 @@ def my_collect(array)
    x = x + 1 
  end 
 end
- my_collect(x) do |name|
-      name.split(" ").first
-    end
