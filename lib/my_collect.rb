@@ -1,4 +1,4 @@
-def my_collect(array) do |name|
+def my_collect(array) 
   name.split(" ").first
   x = 0
    while x < array.length
