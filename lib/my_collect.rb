@@ -6,6 +6,6 @@ def my_collect(array)
    x = x + 1 
  end 
 end
- my_collect(array[x]) do |name|
+ my_collect(x) do |name|
       name.split(" ").first
     end
