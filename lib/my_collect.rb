@@ -1,5 +1,5 @@
 def my_collect(array) 
-  name.split(" ").first
+  array.split(" ").first
   x = 0
    while x < array.length
     yield(array[x])
